@@ -150,17 +150,10 @@ The training process includes real-time visualization showing:
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
 
-[Add your license information here]
 
-## Citation
 
-If you use this code in your research, please cite:
 
-```bibtex
-[Add citation information here]
-```
 
 ## Acknowledgments
 
